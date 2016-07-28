@@ -1,6 +1,6 @@
 ##Important
 This is the experimental branch of Project Cube, and may have many unstable features that need fixing. Use at your own risk.
-To play the game, go to: https://b-train04.github.io/Project-Cube/projectCube/index.html
+To play the stable branch of Project Cube, go to: https://b-train04.github.io/Project-Cube/projectCube/index.html
 
 ##Official Pages
 http://b-train04.github.io/Project-Cube/<br>
